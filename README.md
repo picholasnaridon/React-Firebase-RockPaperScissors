@@ -14,4 +14,4 @@ To do some of this I leveraged Firebase Auth to get a unique identifier for each
 I ended up using an NPM package called [Re-base](https://www.npmjs.com/package/react-rebase) to help link React's state to the Firebase data which was hugely helpful. 
 
 
-
+![RPS](http://www.nickparidon.com/static/media/rps.2939915b.png)
